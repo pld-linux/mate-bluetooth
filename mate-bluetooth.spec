@@ -25,6 +25,7 @@ BuildRequires:	mate-common
 BuildRequires:	mate-doc-utils >= 0.9.0
 BuildRequires:	mate-file-manager-sendto-devel >= 1.1.0
 BuildRequires:	pkgconfig
+BuildRequires:	rpmbuild(find_lang) >= 1.36
 BuildRequires:	rpmbuild(macros) >= 1.592
 BuildRequires:	tar >= 1:1.22
 BuildRequires:	xorg-lib-libX11-devel

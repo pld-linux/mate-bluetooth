@@ -1,12 +1,12 @@
 Summary:	MATE Bluetooth Subsystem
 Summary(pl.UTF-8):	Podsystem MATE Bluetooth
 Name:		mate-bluetooth
-Version:	1.6.0
+Version:	1.6.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://pub.mate-desktop.org/releases/1.6/%{name}-%{version}.tar.xz
-# Source0-md5:	3a080314d10e28918393047ea67b9177
+# Source0-md5:	4cace972ef607ba7e26dbcb7d9a9444b
 URL:		http://wiki.mate-desktop.org/docs:mate-bluetooth
 BuildRequires:	autoconf >= 2.52
 BuildRequires:	automake >= 1:1.9
